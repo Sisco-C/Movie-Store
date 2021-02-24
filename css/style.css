@@ -1,0 +1,55 @@
+body {
+  background-color: white;
+  font-size: 10px;
+  font-family: Arial;
+  margin: auto;
+  width: 700px;
+
+
+}
+#tr1{ 
+ text-decoration: underline grey;
+}
+#UploadmovieButton{
+	background-color: dodgerblue;
+	color: white;
+	border: none;
+	height: 30px;
+
+}
+h2{
+	color: darkcyan	;
+	background-color: paleturquoise;
+	font-size: 10px;
+	width: 700px; 
+	align-content: initial;
+	padding: 10px 0;
+
+
+	
+}
+ table{
+ 	width: 700px;
+ 	word-spacing: double;
+ 	align-items: left;
+ }
+ th{
+ 	text-align: left;
+
+ }
+ #EditButton{
+ 	background-color: dodgerblue;
+ 	color: white;
+ 	font-size: 10px;
+ 	border: none;
+ 	height: 20px;
+
+ }
+ #DeleteButton{
+ 	background-color: red;
+ 	color: white;
+ 	font-size: 10px;
+ 	border: none;
+ 	height: 20px;
+ }
+}
